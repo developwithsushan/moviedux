@@ -1,4 +1,7 @@
 function main(){
-    console.log("Test");
+    let x = 10;
+    if (true){
+    }
+    console.log(x);
 }
 main();
