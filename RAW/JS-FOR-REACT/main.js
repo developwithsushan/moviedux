@@ -1,7 +1,5 @@
-function main(){
-    let x = 10;
-    if (true){
-    }
-    console.log(x);
-}
-main();
+const ids = [1, 2,3,4,5];
+ids.forEach((id) => {
+    id++;
+    console.log(id);
+});
